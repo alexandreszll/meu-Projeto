@@ -1,0 +1,1 @@
+console.log("VidaPlena Saúde carregada com sucesso!");
